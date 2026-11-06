@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Dan 
 
-<!--
-**DAN58-COLLAB/DAN58-COLLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a beginner software developer learning Python and exploring how to build practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+
+Learning Python programming.
+
+Exploring JavaScript and API integration.
+
+Building projects using FastAPI.
+
+Learning Git and GitHub.
+
+Exploring AI and software development.
+
+🛠️ Technologies I'm learning
+
+Python
+
+JavaScript
+
+Git & GitHub
+
+FastAPI
+
+HTML & CSS
+
+🎯 My goal
+
+To become a skilled software developer and build useful applications that solve real-world problems.
+
+Thanks for visiting my profile!
